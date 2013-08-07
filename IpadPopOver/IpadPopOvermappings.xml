@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application name="IpadPopOver" id="IpadPopOver">
+    <container type="form" id="HomePage" displayname="Form"/>
+    <container type="form" id="frmPopOverButton" displayname="Form"/>
+    <container type="form" id="frmPopOverDemo" displayname="Form"/>
+    <container type="form" id="frmPopOverHbox" displayname="Form"/>
+    <container type="form" id="frmPopOverSegment" displayname="Form"/>
+    <container type="form" id="frmPopOverVbox" displayname="Form"/>
+    <container type="dialog" id="popLeftNright" displayname="Popup">
+        <component type="textbox2" id="tbxName" displayname="TextBox2"/>
+        <component type="textbox2" id="tbxDest" displayname="TextBox2"/>
+    </container>
+    <container type="dialog" id="popTopNBottom" displayname="Popup">
+        <component type="textbox2" id="tbxName" displayname="TextBox2"/>
+        <component type="textbox2" id="tbxDest" displayname="TextBox2"/>
+    </container>
+    <globalsequences/>
+    <skins/>
+</application>

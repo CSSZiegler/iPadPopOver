@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application name="IpadPopOverNewSkin" id="IpadPopOverNewSkin">
+    <container type="dialog" id="hdrOne" displayname="Popup"/>
+    <container type="dialog" id="ftrOne" displayname="Popup"/>
+    <container type="form" id="frmPopOverButton" displayname="Form"/>
+    <container type="form" id="frmPopOverDemo" displayname="Form"/>
+    <container type="form" id="frmPopOverHbox" displayname="Form"/>
+    <container type="form" id="frmPopOverSegment" displayname="Form"/>
+    <container type="form" id="frmPopOverVbox" displayname="Form"/>
+    <container type="dialog" id="frmPop" displayname="Popup">
+        <component type="segment" id="segPop" displayname="Segment"/>
+    </container>
+    <container type="dialog" id="popFormAnchor" displayname="Popup"/>
+    <container type="dialog" id="popTopNBottom" displayname="Popup">
+        <component type="textbox2" id="textbox2117822895617091" displayname="TextBox2"/>
+        <component type="textbox2" id="textbox2117822895617111" displayname="TextBox2"/>
+    </container>
+    <container type="form" id="HomePage" displayname="Form"/>
+    <container type="dialog" id="popLeftNright" displayname="Popup">
+        <component type="textbox2" id="textbox2117822895617269" displayname="TextBox2"/>
+        <component type="textbox2" id="textbox2117822895617299" displayname="TextBox2"/>
+    </container>
+    <globalsequences/>
+    <skins/>
+</application>
