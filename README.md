@@ -12,3 +12,6 @@ This Application will showcase the following features of iPad Popovers
 * Popover on HBox
 * Popover on VBox
 * Popover on Segment
+
+# Supported platforms:
+iPad
