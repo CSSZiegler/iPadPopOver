@@ -13,4 +13,5 @@ This Application will showcase the following features of iPad Popovers
 * Popover on Segment
 
 # Supported platforms:
-iPad
+**Tablet** 
+ * iPad
